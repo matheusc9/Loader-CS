@@ -17,6 +17,7 @@ A **C# WinForms application** demonstrating a simple **game/application launcher
 ## Screenshots / Preview
 
 ![Preview](preview.png)
+![Preview2](preview2.png)
 
 *Above: Example of the launcher with simulated authentication and overlay.*
 
