@@ -1,7 +1,5 @@
 # Example Game/Application Launcher (C# WinForms)
 
-![Preview](preview.png)
-
 A **C# WinForms application** demonstrating a simple **game/application launcher** with a simulated authentication system and an integrated overlay. This project is intended for **educational purposes** to show how to create launchers, handle example login workflows, and overlay UI integration.
 
 ---
