@@ -146,7 +146,7 @@
             gameSelect.Font = new Font("Segoe UI", 10F);
             gameSelect.ForeColor = Color.White;
             gameSelect.ItemHeight = 30;
-            gameSelect.Items.AddRange(new object[] { "One-Armed Robber", "The Forest", "Overlay" });
+            gameSelect.Items.AddRange(new object[] { "Load Steam game", "Overlay" });
             gameSelect.Location = new Point(21, 165);
             gameSelect.Name = "gameSelect";
             gameSelect.ShadowDecoration.CustomizableEdges = customizableEdges2;
