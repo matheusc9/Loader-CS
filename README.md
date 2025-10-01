@@ -33,4 +33,4 @@ A **C# WinForms application** demonstrating a simple **game/application launcher
 1. Clone this repository:
 
 ```bash
-git clone [https://github.com/yourusername/your-repo](https://github.com/matheusc9/Loader-CS).git
+git clone https://github.com/matheusc9/Loader-CS.git
